@@ -13,16 +13,10 @@ The **Track API Server** is designed to track the live location of users and sto
 
 ## Tech Stack
 
+- **Mobile App** (under development): React Native
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens) for user authentication
 - **Other Dependencies**: 
   - `mongoose` (for MongoDB interaction)
   - `jsonwebtoken` (for token-based authentication)
-
-## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/track-api-server.git
